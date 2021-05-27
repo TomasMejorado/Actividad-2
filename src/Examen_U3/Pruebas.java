@@ -9,7 +9,7 @@ import java.util.Scanner;
  * @author KAREN CECILIA CARO ESCUDERO :)
  */
 public class Pruebas {
-//Cambio Actividad 2
+
     public static void main(String[] args) {
        //atributos
         double valor1;
